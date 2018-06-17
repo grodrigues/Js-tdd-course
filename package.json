@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "description": "Nossa Bibliioteca do Curso de JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grodrigues/Js-tdd-course.git"
+  },
+  "keywords": [
+    "Js",
+    "Tdd",
+    "Library"
+  ],
+  "author": "Gustavo Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grodrigues/Js-tdd-course/issues"
+  },
+  "homepage": "https://github.com/grodrigues/Js-tdd-course#readme"
+}
